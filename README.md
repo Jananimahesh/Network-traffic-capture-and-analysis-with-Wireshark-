@@ -21,6 +21,7 @@ flowchart TD
 ### Step 1:
 Install Wireshark on the system.
 
+
 ### Step 2:
 Launch Wireshark and select the network interface (Ethernet/Wi-Fi).
 
@@ -36,6 +37,20 @@ Wireshark Packet Capture and Filter Usage
 
 ## OUTPUT:
 Captured Packets with Protocol Analysis and Detailed Packet Info
+A. Capturing Traffic in Wireshark
+
+<img width="343" height="166" alt="image" src="https://github.com/user-attachments/assets/b78aed3d-11cf-4fb6-80af-528fcbd04fa7" />
+
+
+<img width="384" height="190" alt="image" src="https://github.com/user-attachments/assets/02f8c0b4-91f8-4c03-b661-0f96160b0729" />
+
+
+
+<img width="385" height="180" alt="image" src="https://github.com/user-attachments/assets/8e05b7aa-dc9a-446c-8ed8-e0f15e2b34d9" />
+
+
+<img width="255" height="184" alt="image" src="https://github.com/user-attachments/assets/21e2f063-0c44-4074-b8ff-f1f478f3959e" />
+
 
 ## RESULT:
 Network traffic was successfully captured and analyzed using Wireshark.
